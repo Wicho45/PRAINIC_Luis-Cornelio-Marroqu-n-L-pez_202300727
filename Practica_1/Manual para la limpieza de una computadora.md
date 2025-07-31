@@ -87,5 +87,9 @@
            - Temperatura normal durante operación\
       ![](https://github.com/Wicho45/PRAINIC_Luis-Cornelio-Marroqu-n-L-pez_202300727/blob/eb9ea0f661a6b262441b63af0be628243c50f015/imagenes/prub%20f.png)
 
+
+  ## Video tutorial: 
+   https://youtu.be/Omjjsc3PMho
   ## Mantenimiento finalizado.
+
      
