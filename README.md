@@ -1,2 +1,6 @@
-# PRAINIC_Luis-Cornelio-Marroqu-n-L-pez_202300727
-Practica 1
+## Practicas iniciales
+
+Nombre: Luis Cornelio Marroquín López\
+Carné: 202300727\
+Periodo: 2do semestre \
+Año: 2025
